@@ -1,0 +1,53 @@
+# Exercícios de Java
+
+Repositório com exercícios desenvolvidos durante as aulas de **Análises de Négocios com uso de Big Data**.
+
+## Conteúdos praticados
+
+- Entrada e saída de dados
+- Variáveis e tipos de dados
+- Estruturas de decisão condicionais (`if`, `else if`, `else`)
+- Estruturas de decisão de múltipla escolha (`switch-case`)
+- Operadores relacionais e lógicos (`&&`, `||`, `!=`, `==`)
+- Validação de dados de entrada com laços de repetição (`do-while`)
+- Operações matemáticas e cálculo de porcentagens
+- Fórmulas matemáticas avançadas e lógicas de eliminação
+- Manipulação de `String` e caracteres (`charAt`, `toUpperCase`)
+- Uso da classe `Scanner`
+- Lógica de programação sequencial e de decisão
+
+## Exercícios Resolvidos
+
+**Estrutura de Decisão:**
+- Verificação de número maior que 10
+- Validação de intervalo numérico (100 a 200)
+- Identificação de mês correspondente
+- Maior (e menor) entre 2 ou 3 números inteiros
+- Ordenação de valores em ordem crescente
+- Cálculo de média e situação acadêmica (Aprovado/Reprovado)
+- Classificação de estudantes por nota final e tabela de conceitos
+- Cálculo de reajuste salarial de acordo com código do cargo
+- Cálculo de abono salarial baseado em sexo e idade
+- Classificação de tipos de triângulos (Equilátero, Isósceles, Escaleno)
+- Categorização de nadadores por faixa etária
+- Cálculo de tarifas de conta de luz por tipo de cliente
+- Cálculo avançado do peso ideal
+
+**Estrutura Sequencial**
+- Soma de dois números
+- Área e perímetro
+- Equação do segundo grau
+- Nome completo
+- Valor de desconto e Porcentagem
+- Montante financeiro
+- Troca de variáveis
+- Conversão de dólar e temperatura
+- Salário líquido e de vendedor
+- Rendimento da poupança
+
+## Tecnologias
+
+- Java
+- VS Code
+- Git
+- GitHub
